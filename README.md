@@ -7,5 +7,5 @@ wget https://github.com/DATAOORTS/jifer/raw/main/jifer -O jifer && chmod +x jife
 
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/DATAOORTS/count.svg)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 ```
