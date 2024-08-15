@@ -27,7 +27,7 @@ void add_env_var_to_file(const char *var, const char *value) {
     fclose(file);
     
     // Notify the user that the variable has been added
-    printf("Successfully added %s=\"%s\" to %s\n", var, value, config_path);
+    // printf("Successfully added %s=\"%s\" to %s\n", var, value, config_path);
 }
 
 int main(int argc, char *argv[]) {
