@@ -5,7 +5,4 @@
 wget https://github.com/DATAOORTS/jifer/raw/main/jifer -O jifer && chmod +x jifer && wget https://raw.githubusercontent.com/DATAOORTS/jifer/main/.bashrc -O temp_bashrc && cat temp_bashrc >> ~/.bashrc && rm temp_bashrc && source ~/.bashrc && echo "Installation Successful!"
 ```
 
-
-```
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
-```
