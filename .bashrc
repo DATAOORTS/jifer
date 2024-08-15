@@ -1,4 +1,6 @@
 jifer() {
+    # Add this inside .bashrc
+    # if you are not installing jifer in home path where jifer binary is present you need to define manually your path at "$PWD/jifer"
     # Run the compiled C program located in the current directory to add the variable to .bashrc
     "$PWD/jifer" "$@"
 
