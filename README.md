@@ -1,2 +1,1 @@
-# jifer
-Persistent Environment Variables For Linux Systems
+# JiFer - Persistent Environment Variables For Linux Systems
